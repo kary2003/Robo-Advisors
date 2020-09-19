@@ -1,3 +1,8 @@
-What is the background of your company? What do they do? Who are their competitors?
--Vanguard background: mutual funds, ETF's
-How does this company use technology to their advantage? Why are they considered a FinTech company?
+#Vanguard
+
+###What is the background of your company? What do they do? Who are their competitors?
+
+-Vanguard background: mutual funds, ETF's and other index investing. The company founded in 1975 has recently started a robo advising service and the company has about $6.2 trillion in global assets under management, as of January 31, 2020. Robo advisors work by finding the best way to allocate products/investments. Betterment and wealthfront.
+
+###How does this company use technology to their advantage? Why are they considered a FinTech company?
+this company has a great backend of data and has a lot of investments that it has managed. They have developed a robo advising system that has performed well in the year it has been out.
