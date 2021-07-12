@@ -2,7 +2,7 @@
 
 
 # Why is this company exemplary in the FinTech space? What are their strengths and weak  nesses?
-##Vanguard
+## Vanguard
 * It has been around for 44 years
 * It’s likely the first major financial institution using blockchain for a core service.
 * last year may 2019 they started using blockchain technology
