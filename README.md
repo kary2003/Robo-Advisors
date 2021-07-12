@@ -1,6 +1,5 @@
 # Robo-Advisors
 
-## Kary Edit
 
 # Why is this company exemplary in the FinTech space? What are their strengths and weak  nesses?
 ##Vanguard
