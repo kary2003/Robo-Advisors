@@ -1,7 +1,4 @@
 # Robo-Advisors
-Saturday Excersice
-
-
 
 ## Kary Edit
 
